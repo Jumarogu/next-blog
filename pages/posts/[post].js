@@ -1,3 +1,4 @@
+/* eslint-disable react/no-danger */
 /* eslint-disable react/prop-types */
 import Head from 'next/head';
 import React from 'react';
